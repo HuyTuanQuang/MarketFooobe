@@ -1,0 +1,14 @@
+@media only screen and (min-width: 769px) and (max-width: 1199px) {
+    /* left */
+    .market-layout-left{
+        width: 35%;
+    }
+    /* center */
+    .market-layout-center {
+      width: 65%;
+    }
+    .market-layout-right {
+        display: none;
+    }
+  
+}   

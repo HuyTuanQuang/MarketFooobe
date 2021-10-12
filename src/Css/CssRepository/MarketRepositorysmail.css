@@ -1,0 +1,16 @@
+@media only screen and (max-width: 768px) {
+    /* left */
+    .market-layout-left {
+      display: none;
+    }
+
+    /* center */
+    .market-layout-center {
+        width: 100%;
+      }
+
+    /* right */
+    .market-layout-right {
+        display: none;
+      }
+}
