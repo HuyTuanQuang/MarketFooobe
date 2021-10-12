@@ -6,6 +6,13 @@
     /* center */
     .market-layout-center {
       width: 65%;
+      
+    }
+    .market-layout-create-left{
+        width: 35%;
+    }
+    .market-layout-create-body{
+        width: 65%;
     }
     .market-layout-right {
         display: none;
