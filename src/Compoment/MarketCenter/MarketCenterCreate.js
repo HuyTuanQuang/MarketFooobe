@@ -42,7 +42,7 @@ function MarketCenterCreate(props) {
             const newImage = document.createElement('img');
             newImage.src = srcData;
             document.getElementById('imageCenter').innerHTML = newImage.outerHTML;
-            document.getElementById('imageCenter1').innerHTML = newImage.outerHTML;
+           
           }
           file.readAsDataURL(filetoLoad)
         }
