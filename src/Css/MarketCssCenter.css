@@ -429,6 +429,10 @@ margin-left: 1%;
   border-radius: 10px;
   
 }
+.market-layout-create-body-info-item-img img{
+  width: 100%;
+  height: 100%;
+}
 .market-layout-create-body-info-item-info {
   width: 45%;
   height: 100%;
